@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ABDOPORTFOLIO/static/css/main.11029599.chunk.css",
-    "main.js": "/ABDOPORTFOLIO/static/js/main.549bf99f.chunk.js",
-    "main.js.map": "/ABDOPORTFOLIO/static/js/main.549bf99f.chunk.js.map",
+    "main.css": "/ABDOPORTFOLIO/static/css/main.92d624c3.chunk.css",
+    "main.js": "/ABDOPORTFOLIO/static/js/main.35fb440c.chunk.js",
+    "main.js.map": "/ABDOPORTFOLIO/static/js/main.35fb440c.chunk.js.map",
     "runtime-main.js": "/ABDOPORTFOLIO/static/js/runtime-main.56dbd316.js",
     "runtime-main.js.map": "/ABDOPORTFOLIO/static/js/runtime-main.56dbd316.js.map",
     "static/js/2.9d0a815d.chunk.js": "/ABDOPORTFOLIO/static/js/2.9d0a815d.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.038d555a.chunk.js": "/ABDOPORTFOLIO/static/js/3.038d555a.chunk.js",
     "static/js/3.038d555a.chunk.js.map": "/ABDOPORTFOLIO/static/js/3.038d555a.chunk.js.map",
     "index.html": "/ABDOPORTFOLIO/index.html",
-    "static/css/main.11029599.chunk.css.map": "/ABDOPORTFOLIO/static/css/main.11029599.chunk.css.map",
+    "static/css/main.92d624c3.chunk.css.map": "/ABDOPORTFOLIO/static/css/main.92d624c3.chunk.css.map",
     "static/js/2.9d0a815d.chunk.js.LICENSE.txt": "/ABDOPORTFOLIO/static/js/2.9d0a815d.chunk.js.LICENSE.txt",
     "static/media/code.316b81e0.svg": "/ABDOPORTFOLIO/static/media/code.316b81e0.svg",
     "static/media/contact.117c2ae5.jpg": "/ABDOPORTFOLIO/static/media/contact.117c2ae5.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.56dbd316.js",
     "static/js/2.9d0a815d.chunk.js",
-    "static/css/main.11029599.chunk.css",
-    "static/js/main.549bf99f.chunk.js"
+    "static/css/main.92d624c3.chunk.css",
+    "static/js/main.35fb440c.chunk.js"
   ]
 }
